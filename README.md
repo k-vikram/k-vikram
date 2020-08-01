@@ -4,13 +4,13 @@
 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
 
-    My name is Vikram. I am simple guy who likes to new make things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. I akso enjoy learning new technologies to explore its new possibilities. 
+My name is Vikram. I am simple guy who likes to new make things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. I akso enjoy learning new technologies to explore its new possibilities. 
 
 🤝 I am always open to collaborations on interesting projects. 🤝
 
 ### 🌱 Recent Project:  [Pratijivanam](https://github.com/k-vikram/Pratijivanam)
 
-    This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share     local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
+This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share     local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
 
   *Live link coming soon!*
   
