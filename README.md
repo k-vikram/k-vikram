@@ -1,22 +1,11 @@
-## Hi there 👋
+  ## Hi there ![Me saying Hi](./Avatars/hi.png)
 
-<!--
-**k-vikram/k-vikram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🔭 I’m currently working on Pratijivam (A Covid Survivors Website)
+  - 🌱 I’m currently learning Typescript, Netlify, Hosting a standalone website
+  - 💬 Ask me about Javascript, React, HTML, CSS and Frontend engineering
+  - 📫 How to reach me: vtgtyc@gmail.com
+  - ⚡ Fun fact: Most of the Projects in my repo might(but not all) have Sanskrit titles relating to the
+  theme/purpose.
+  :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on Pratijivam (A Covid Survivors Website)
-- 🌱 I’m currently learning Typescript, Netlify, Hosting a standalone website
-- 💬 Ask me about Javascript, React, HTML, CSS and Frontend engineering
-- 📫 How to reach me: vtgtyc@gmail.com
-- ⚡ Fun fact: Most of the Projects in my repo might(but not all) have Sanskrit titles relating to the theme/purpose. :)
-
-> _This readme is under under-construction. Keep watching for updated intro in a few hours. 🌱🌱🌱🌱🌱🌱_
+  > _This readme is under under-construction. Keep watching for updated intro in a few hours._ 🌱🌱🌱🌱🌱🌱
