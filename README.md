@@ -1,6 +1,6 @@
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png" alt="sayhi" width="150"/>
 
-## Welcome to my Page !!
+## Hi There !!
 
 My name is Vikram. I am simple guy who likes to new make things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. I also enjoy learning new technologies to explore its new possibilities. 
 
@@ -22,6 +22,7 @@ Next skills to pick up include `Typescript, React Context APIs, Jest`.
 Also hosting an app with `Netlify` and `Github Pages` is in road map.
 
 *Repos on these coming soon!*
+
 
 
 ### Fun Fact 🎮
