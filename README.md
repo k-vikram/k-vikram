@@ -1,4 +1,4 @@
-<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png" alt="sayhi" width="100"/>
+<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png" alt="sayhi" width="150"/>
   
 ## Hi there ! 
   
@@ -13,4 +13,4 @@ theme/purpose.
 > _This readme is under under-construction. Keep watching for updated intro in a few hours._ 🌱🌱🌱🌱🌱🌱
 
 
-<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/bye.png" alt="saybye" width="100"/>
+<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/bye.png" alt="saybye" width="150"/>
