@@ -1,4 +1,4 @@
- ## Hi there !
+  !(./Avatars/hi.png)   ## Hi there ! 
   - 🔭 I’m currently working on Pratijivam (A Covid Survivors Website)
   - 🌱 I’m currently learning Typescript, Netlify, Hosting a standalone website
   - 💬 Ask me about Javascript, React, HTML, CSS and Frontend engineering
