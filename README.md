@@ -16,8 +16,8 @@ My name is Vikram. I am simple guy who likes to new make things and collaborate 
 #### Focussing Next On 🤽‍♂️
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" align="left"/>
 
-Next skills to pick up include `Typescript, React Context APIs, Jest, Netlify`.
-
+Next skills to pick up include `Typescript, React Context APIs, Jest`.
+Also hosting an app with `Netlify` and `Github Pages` is in road map.
 *Repos on these coming soon!*
 
 #### Fun Fact 🎮
