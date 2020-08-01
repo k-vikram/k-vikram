@@ -14,11 +14,11 @@ My name is Vikram. I am simple guy who likes to new make things and collaborate 
 *Live link coming soon!*
   
 #### Focussing Next On 🤽‍♂️
+<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" align="left"/>
 
 *`Typescript`, `React Context APIs`, `Jest`, `Netlify`*
 
 #### Fun Fact 🎮
-<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" />
 
 Many of the Projects(future ones too) in my repo might have `Sanskrit` titles relating to the theme/purpose of the initiative. Check out the repo to understand why.
 
