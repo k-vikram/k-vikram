@@ -3,7 +3,7 @@
 
 ## स्वागतम / Welcome !!
 
-My name is Vikram. I am simple guy who likes to new make things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. I also enjoy learning new technologies to explore its new possibilities. 
+My name is Vikram. I am a simple guy who likes to make new things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. I also enjoy learning new technologies to explore its new possibilities. 
 
 🤝 I am always open to collaborations on interesting projects. 🤝
 
@@ -19,7 +19,7 @@ My name is Vikram. I am simple guy who likes to new make things and collaborate 
 ### Focussing Next On 🤽‍♂️
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" align="left"/>
 
-Next skills to pick up include `Typescript, React Context APIs, Jest`.
+Next skills to pick up include `Typescript, React Context APIs, Jest, AWS Basics (Cloud)`.
 Also hosting an app with `Netlify` and `Github Pages` is in road map.
 
 *Repos on these coming soon!*
