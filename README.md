@@ -7,7 +7,7 @@ My name is Vikram. I am simple guy who likes to new make things and collaborate 
 🤝 I am always open to collaborations on interesting projects. 🤝
 
 
-#### Recent Project 🌱 
+### Recent Project 🌱 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
 
 [Pratijivanam](https://github.com/k-vikram/Pratijivanam) : This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
@@ -15,7 +15,7 @@ My name is Vikram. I am simple guy who likes to new make things and collaborate 
 *Live link coming soon!*
 
 
-#### Focussing Next On 🤽‍♂️
+### Focussing Next On 🤽‍♂️
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" align="left"/>
 
 Next skills to pick up include `Typescript, React Context APIs, Jest`.
@@ -24,7 +24,7 @@ Also hosting an app with `Netlify` and `Github Pages` is in road map.
 *Repos on these coming soon!*
 
 
-#### Fun Fact 🎮
+### Fun Fact 🎮
 
 Many of the Projects(future ones too) in my repo might have `Sanskrit` titles relating to the theme/purpose of the initiative. Check out the repo to understand why.
 
