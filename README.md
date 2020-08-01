@@ -8,17 +8,17 @@
 
 🤝 I am always open to collaborations on interesting projects. 🤝
 
-### 🌱Recent Project:  [Pratijivanam](https://github.com/k-vikram/Pratijivanam)
+### 🌱 Recent Project:  [Pratijivanam](https://github.com/k-vikram/Pratijivanam)
 
     This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share     local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
 
   *Live link coming soon!*
   
-### 🤽‍♂️Focussing Next On:
+### 🤽‍♂️ Focussing Next On:
 
   *`Typescript`, `React Context APIs`, `Jest`, `Netlify`*
 
-### Fun Fact:
+### 🎮 Fun Fact:
 
 Many of the Projects(future ones too) in my repo might have `Sanskrit` titles relating to the theme/purpose of the initiative. Check out the repo to understand why.
 
