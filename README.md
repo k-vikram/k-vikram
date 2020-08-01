@@ -12,11 +12,11 @@
 
     This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share     local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
 
-  > *Live link coming soon!*
+  *Live link coming soon!*
   
 ## 🤽‍♂️Focussing Next On 
 
-  > `Typescript`, `React Context APIs`, `Jest`, `Netlify`  
+  *`Typescript`, `React Context APIs`, `Jest`, `Netlify`*
 
 ## Fun Facts
 
