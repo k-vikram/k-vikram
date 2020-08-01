@@ -26,6 +26,7 @@ Also hosting an app with `Netlify` and `Github Pages` is in road map.
 
 
 
+
 ### Fun Fact 🎮
 
 Many of the Projects(future ones too) in my repo might have `Sanskrit` titles relating to the theme/purpose of the initiative. Check out the repo to understand why.
