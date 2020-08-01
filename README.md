@@ -13,4 +13,4 @@ theme/purpose.
 > _This readme is under under-construction. Keep watching for updated intro in a few hours._ 🌱🌱🌱🌱🌱🌱
 
 
-![Says Bye](https://github.com/k-vikram/k-vikram/blob/master/Avatars/bye.png) 
+<img src="./Avatars/bye.png" alt="saybye" width="200"/>
