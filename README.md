@@ -2,15 +2,27 @@
 
 ---  
 
-- 🔭 I’m currently working on Pratijivam (A Covid Survivors Website)
-- 🌱 I’m currently learning Typescript, Netlify, Hosting a standalone website
-- 💬 Ask me about Javascript, React, HTML, CSS and Frontend engineering
-- 📫 How to reach me: vtgtyc@gmail.com
-- ⚡ Fun fact: Most of the Projects in my repo might(but not all) have Sanskrit titles relating to the
-theme/purpose.
-:)
+## Welcome to my Page !!
 
-> _This readme is under under-construction. Keep watching for updated intro in a few hours._ 🌱🌱🌱🌱🌱🌱
+My name is Vikram. I am simple guy who like to make things and collaborate people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. But I enjoy learning new technologies to explore new possibilities. 
+
+<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
+
+🤝 I am always open to collaborations on interesting projects. 🤝
+
+### 🌱🌱🌱Recent Project - [PratijivanamRepoLink](https://github.com/k-vikram/Pratijivanam)
+
+    This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share     local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
+
+  > *Live link coming soon!*
+  
+## 🤽‍♂️Focussing Next On 
+
+  > `Typescript`, `React Context APIs`, `Jest`, `Netlify`  
+
+## Fun Facts
+
+Many of the Projects(future ones too) in my repo might have `Sanskrit` titles relating to the theme/purpose of the initiative. Check out the repo to understand why.
 
 ---
 
