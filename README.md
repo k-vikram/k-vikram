@@ -1,7 +1,7 @@
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png" alt="sayhi" width="150"/>
-  
-## Hi there ! 
-  
+
+---  
+
 - 🔭 I’m currently working on Pratijivam (A Covid Survivors Website)
 - 🌱 I’m currently learning Typescript, Netlify, Hosting a standalone website
 - 💬 Ask me about Javascript, React, HTML, CSS and Frontend engineering
