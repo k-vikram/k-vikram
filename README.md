@@ -4,9 +4,9 @@
 
 ## Welcome to my Page !!
 
-My name is Vikram. I am simple guy who like to make things and collaborate people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. But I enjoy learning new technologies to explore new possibilities. 
-
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
+
+    My name is Vikram. I am simple guy who like to make things and collaborate people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. But I enjoy learning new technologies to explore new possibilities. 
 
 🤝 I am always open to collaborations on interesting projects. 🤝
 
