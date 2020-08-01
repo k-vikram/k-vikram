@@ -1,4 +1,4 @@
-![Says Hi](https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png)   
+<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png" alt="sayhi" width="200"/>
   
 ## Hi there ! 
   
