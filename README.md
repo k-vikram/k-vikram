@@ -1,7 +1,5 @@
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/hi.png" alt="sayhi" width="150"/>
 
----  
-
 ## Welcome to my Page !!
 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
@@ -23,7 +21,5 @@
 ## Fun Facts
 
 Many of the Projects(future ones too) in my repo might have `Sanskrit` titles relating to the theme/purpose of the initiative. Check out the repo to understand why.
-
----
 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/bye.png" alt="saybye" width="150" align="right"/>
