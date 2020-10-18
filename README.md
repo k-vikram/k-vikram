@@ -11,7 +11,7 @@ My name is Vikram. I am a simple guy who likes to make new things and collaborat
 ### Recent Project 🌱 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
 
-[Pratijivanam](https://github.com/k-vikram/Pratijivanam) : This is a `Covid-19` Survivors' tales collection Website. Intent is to create a community of people who have recovered and can now guide, donate plasma, share local tips and home-remedies for relief and recovery for the next batch of affected patients through their experiences.
+[Pratijivanam](https://github.com/k-vikram/Pratijivanam) : A Hacker News Clone made with React and all supporting importatnt libraries. [Test_Cases_Pending] .The name is choosen for a personal reaon.
 
 *Live link coming soon!*
 
