@@ -11,7 +11,7 @@ My name is Vikram. I am a simple guy who likes to make new things and collaborat
 ### Recent Project 🌱 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
 
-[Pratijivanam](https://github.com/k-vikram/Pratijivanam) : A Hacker News Clone made with React and all supporting importatnt libraries. [Test_Cases_Pending] .The name is choosen for a personal reaon.
+[Pratijivanam](https://github.com/k-vikram/Pratijivanam) : A Hacker News Clone made with React and all supporting importatnt libraries.The name is choosen for a personal reaon. [Live Link](https://hncloneapp.netlify.app)
 
 *Live link coming soon!*
 
