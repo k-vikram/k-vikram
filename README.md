@@ -11,9 +11,7 @@ My name is Vikram. I am a simple guy who likes to make new things and collaborat
 ### Recent Project 🌱 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
 
-[Pratijivanam](https://github.com/k-vikram/Pratijivanam) : A Hacker News Clone made with React and all supporting importatnt libraries.The name is choosen for a personal reaon. 
-
-#*[Live Link](https://hncloneapp.netlify.app)*#
+[FLipkart Chat Clone](https://github.com/k-vikram/fk-chat-clone) : A Flipkart customer chat window Clone made with React and all supporting importatnt libraries and ViteJs for react.
 
 ### Focussing Next On 🤽‍♂️
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" align="left"/>
