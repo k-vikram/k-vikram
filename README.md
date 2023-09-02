@@ -11,13 +11,13 @@ My name is Vikram. I am a simple guy who likes to make new things and collaborat
 ### Recent Project 🌱 
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/wink.png" alt="mewink" width="100" align="right" />
 
-[FLipkart Chat Clone](https://github.com/k-vikram/fk-chat-clone) : A Flipkart customer chat window Clone made with React and all supporting importatnt libraries and ViteJs for react.
+[Univitth](https://github.com/k-vikram/univitth) : Univitth
 
 ### Focussing Next On 🤽‍♂️
 <img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/thumbsup.png" alt="mewink" width="100" align="left"/>
 
-Next skills to pick up include `Typescript, React Context APIs, Jest, AWS Basics (Cloud)`.
-Also hosting an app with `Netlify` and `Github Pages` is in road map.
+Next skills to pick up include `AWS Basics (Cloud), GraphQL(Apollo)`.
+Also hosting an app with `Netlify, Vercel, AWS` and `Github Pages` is in road map.
 
 *Repos on these coming soon!*
 
