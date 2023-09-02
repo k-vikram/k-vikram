@@ -3,7 +3,7 @@
 
 ## स्वागतम / Welcome !!
 
-My name is Vikram. I am a simple guy who likes to make new things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS` 👨🏻‍💻 for now. I also enjoy learning new technologies to explore its new possibilities. 
+My name is Vikram. I am a simple guy who likes to make new things and collaborate with people. By profession, I am a `UI Developer` and I develop stuff mostly in 👨🏻‍💻 `React, JS, HTML, CSS, SCSS, Redux and other React Eco-System etc.` 👨🏻‍💻 for now. I also enjoy learning new technologies to explore its new possibilities. 
 
 🤝 I am always open to collaborations on interesting projects. 🤝
 
